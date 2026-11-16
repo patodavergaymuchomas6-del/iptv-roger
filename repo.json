@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "title": "IPTV ROGER - Repositorio de Movian",
+  "plugins": [
+    {
+      "type": "ecmascript",
+      "apiversion": 2,
+      "id": "cineiptv",
+      "file": "main.js",
+      "version": "0.4.0",
+      "title": "IPTV ROGER",
+      "author": "IPTV ROGER",
+      "synopsis": "TV, peliculas y series: M3U y Xtream Codes",
+      "description": "IPTV ROGER para Movian M7 en PS3. Portada verde y negro, mosaicos de categorias, favoritos y listas M3U/Xtream Codes. No incluye canales ni contenido.",
+      "category": "video",
+      "M7Version": "7.0.24",
+      "icon": "icon.png",
+      "downloadURL": "IPTV-ROGER-Movian7-v0.4.0.zip"
+    }
+  ]
+}
